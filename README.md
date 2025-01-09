@@ -51,7 +51,7 @@ PT Sejahtera Bersama specializes in selling a diverse range of products, includi
 ---
 
 ## 📂 Files
-1. **Data Integration**: Access the scripts and SQL queries used to merge and clean the sales data here(https://console.cloud.google.com/bigquery?sq=317462975085:66c7f9bb56f44b589f6905fce5ef0376).
+1. **Data Integration**: Access the scripts and SQL queries used to merge and clean the sales data here(https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1squalified-glow-446105-r1!2sus-central1!3s2ae7133f-899d-4ea6-9577-edda9b43ba5c!2e1).
 2. **Dashboard Templates**: Access the Dashboard made using Looker Studio here(https://lookerstudio.google.com/s/nCKEPMeujMg).
 3. **Recommendations**: Review the documents inside this repo for insights on implementing business improvements.
 
